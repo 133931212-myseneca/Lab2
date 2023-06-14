@@ -10,3 +10,8 @@ def print_arguments():
 
 print_arguments()
 
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
